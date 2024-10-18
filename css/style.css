@@ -1,0 +1,30 @@
+table, td, th {
+	border: 1px solid white; 
+    margin: 0px;
+    padding: 5px;
+
+    border-collapse: collapse;
+  }
+
+td{
+    width: 200px;
+}
+
+.table_img{
+    text-align: center;
+}
+
+
+body{
+    height: 100vh;
+    font-family: Arial;
+    color:white;
+
+    background-color: #000000;
+}
+
+img{
+    height: 100px;
+}
+
+  
